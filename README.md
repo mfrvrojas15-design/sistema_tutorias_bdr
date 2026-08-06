@@ -1,6 +1,3 @@
-# Descripción del Proyecto
-Base de datos relacional para administrar tutorías universitarias, incluyendo estudiantes, tutores, asignaturas, disponibilidad, reservas, espacios, sesiones individuales o grupales, asistencia y reportes.
-
 # Sistema de Gestión de Tutorías Universitarias
 
 Este proyecto tiene como objetivo diseñar e implementar una base de datos
