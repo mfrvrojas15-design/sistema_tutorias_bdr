@@ -1,4 +1,4 @@
-# sistema_tutorias_bdr
+# Sistema-Gestion-Tutorias-Universitarias
 Base de datos relacional para administrar tutorías universitarias, incluyendo estudiantes, tutores, asignaturas, disponibilidad, reservas, espacios, sesiones individuales o grupales, asistencia y reportes.
 
 # Sistema de Gestión de Tutorías Universitarias
