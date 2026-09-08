@@ -12,6 +12,11 @@ La solución busca centralizar la información, evitar conflictos de horario,
 controlar la capacidad de las sesiones y facilitar el seguimiento de los
 servicios de acompañamiento académico ofrecidos por la universidad.
 
+## Integrantes
+- Maria Fernanda Rojas Villamizar
+- Vivian Yulitza Ramirez Ramos
+- Juan Jose Espinosa Ortega
+- Carlos David Herrera Rodriguez
 
 ## Objetivos
 
