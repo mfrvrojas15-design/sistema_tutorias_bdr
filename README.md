@@ -14,7 +14,7 @@ servicios de acompañamiento académico ofrecidos por la universidad.
 
 ## Integrantes
 - Maria Fernanda Rojas Villamizar
-- Vivian Yulitza Ramirez Ramos
+- Vivian Yulitza Ramirez Ramos 2243563
 - Juan Jose Espinosa Ortega
 - Carlos David Herrera Rodriguez
 
