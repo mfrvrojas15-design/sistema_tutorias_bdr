@@ -15,8 +15,8 @@ servicios de acompañamiento académico ofrecidos por la universidad.
 ## Integrantes
 - Maria Fernanda Rojas Villamizar 2243576
 - Vivian Yulitza Ramirez Ramos 2243563
-- Juan Jose Espinosa Ortega
-- Carlos David Herrera Rodriguez
+- Juan Jose Espinosa Ortega 2243551
+- Carlos David Herrera Rodriguez 2243562
 
 ## Objetivos
 
