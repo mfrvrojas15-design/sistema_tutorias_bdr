@@ -28,7 +28,7 @@ Contiene 10 consultas SQL relacionadas con el funcionamiento del sistema, incluy
 - Registro de asistencia.
 - Promedio de calificaciones por tutoría.
 - Estudiantes con mejor rendimiento.
-- Tutorías más solicitadas.
+- Tutorías sin solicitudes.
 - Reporte general del sistema.
 
 ## Instrucciones de ejecución
