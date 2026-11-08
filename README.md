@@ -28,3 +28,34 @@ servicios de acompañamiento académico ofrecidos por la universidad.
 - Evitar reservas duplicadas y conflictos de horario.
 - Registrar la asistencia y el resultado de las sesiones.
 - Generar consultas y reportes sobre el uso del sistema.
+
+
+## Contenido de la presentación final
+
+El proyecto se presenta en el siguiente orden, de acuerdo
+con los requisitos de la entrega final.
+
+### 1. Análisis de la situación
+[Ver documentación del análisis](Modelo%20E-R/)
+
+### 2. Modelo Entidad–Relación
+[Ver modelo E-R](Modelo%20E-R/)
+
+### 3. Modelo relacional y normalización
+[Ver diagrama e informe de normalización](Modelo%20Relacional/)
+
+### 4. Base de datos construida en SQL
+[Ver código de creación de tablas](Base%20de%20Datos%20SQL/CreacionTablas.sql)
+
+### 5. Carga de datos al modelo
+[Ver inserción de 12 registros por tabla](Base%20de%20Datos%20SQL/Registros.sql)
+
+### 6. Diez consultas sobre la base de datos
+[Ver las 10 consultas SQL](Base%20de%20Datos%20SQL/Consultas.sql)
+
+---
+
+**Tecnología:** MySQL 8.0 y MySQL Workbench.
+
+**Orden de ejecución:** `CreacionTablas.sql` → `Registros.sql` → `Consultas.sql`.
+  
