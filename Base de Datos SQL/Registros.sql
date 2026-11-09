@@ -1,17 +1,17 @@
 INSERT INTO estudiante (id_estudiante, nombre, apellido, email, telefono, semestre, programa_academico)
 VALUES
-(1, 'Carlos', 'Ramirez', 'carlos.ramirez@example.com', '3001000001', 3, 'Ingenieria de Sistemas'),
-(2, 'Laura', 'Gomez', 'laura.gomez@example.com', '3001000002', 4, 'Ingenieria de Sistemas'),
-(3, 'Andres', 'Martinez', 'andres.martinez@example.com', '3001000003', 2, 'Administracion de Empresas'),
-(4, 'Valentina', 'Rodriguez', 'valentina.rodriguez@example.com', '3001000004', 5, 'Ingenieria Industrial'),
-(5, 'Juan', 'Perez', 'juan.perez@example.com', '3001000005', 1, 'Ingenieria de Sistemas'),
-(6, 'Daniela', 'Torres', 'daniela.torres@example.com', '3001000006', 6, 'Contaduria Publica'),
-(7, 'Santiago', 'Lopez', 'santiago.lopez@example.com', '3001000007', 3, 'Ingenieria Industrial'),
-(8, 'Camila', 'Hernandez', 'camila.hernandez@example.com', '3001000008', 4, 'Administracion de Empresas'),
-(9, 'Sebastian', 'Moreno', 'sebastian.moreno@example.com', '3001000009', 2, 'Ingenieria de Sistemas'),
-(10, 'Natalia', 'Castro', 'natalia.castro@example.com', '3001000010', 7, 'Contaduria Publica'),
-(11, 'Mateo', 'Vargas', 'mateo.vargas@example.com', '3001000011', 5, 'Ingenieria Industrial'),
-(12, 'Isabella', 'Rojas', 'isabella.rojas@example.com', '3001000012', 3, 'Ingenieria de Sistemas');
+(1, 'Carlos', 'Ramirez', 'carlos.ramirez@gmail.com', '3001000001', 3, 'Ingenieria de Sistemas'),
+(2, 'Laura', 'Gomez', 'laura.gomez@gmail.com', '3001000002', 4, 'Ingenieria de Sistemas'),
+(3, 'Andres', 'Martinez', 'andres.martinez@gmail.com', '3001000003', 2, 'Administracion de Empresas'),
+(4, 'Valentina', 'Rodriguez', 'valentina.rodriguez@hotmail.com', '3001000004', 5, 'Ingenieria Industrial'),
+(5, 'Juan', 'Perez', 'juan.perez@gmail.com', '3001000005', 1, 'Ingenieria de Sistemas'),
+(6, 'Daniela', 'Torres', 'daniela.torres@gmail.com', '3001000006', 6, 'Contaduria Publica'),
+(7, 'Santiago', 'Lopez', 'santiago.lopez@gmail.com', '3001000007', 3, 'Ingenieria Industrial'),
+(8, 'Camila', 'Hernandez', 'camila.hernandez@hotmail.com', '3001000008', 4, 'Administracion de Empresas'),
+(9, 'Sebastian', 'Moreno', 'sebastian.moreno@gmail.com', '3001000009', 2, 'Ingenieria de Sistemas'),
+(10, 'Natalia', 'Castro', 'natalia.castro@hotmail.com', '3001000010', 7, 'Contaduria Publica'),
+(11, 'Mateo', 'Vargas', 'mateo.vargas@gmail.com', '3001000011', 5, 'Ingenieria Industrial'),
+(12, 'Isabella', 'Rojas', 'isabella.rojas@gmail.com', '3001000012', 3, 'Ingenieria de Sistemas');
 
 
 INSERT INTO tutor (id_tutor, nombre, apellido, email, telefono, departamento)
