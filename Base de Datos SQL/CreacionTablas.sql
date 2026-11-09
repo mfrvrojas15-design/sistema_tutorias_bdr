@@ -1,3 +1,7 @@
+CREATE DATABASE sistema_tutorias_bdr;
+
+USE sistema_tutorias_bdr;
+
 -- 1. Tabla estudiante
 CREATE TABLE estudiante (
     id_estudiante INT AUTO_INCREMENT PRIMARY KEY,
