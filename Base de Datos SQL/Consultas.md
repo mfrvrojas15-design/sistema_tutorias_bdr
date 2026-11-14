@@ -10,9 +10,7 @@ ORDER BY apellido, nombre;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 1](<img width="811" height="312" alt="image" src="https://github.com/user-attachments/assets/61d72d2c-71f8-4056-81b0-fd19acf01b84" />
-)
-
+<img width="811" height="312" alt="Resultado de la consulta 1" src="https://github.com/user-attachments/assets/61d72d2c-71f8-4056-81b0-fd19acf01b84" />
 ---
 
 ## Consulta 2. Consultar las tutorías con sus respectivos tutores
@@ -30,7 +28,7 @@ ORDER BY t.id_tutoria;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 2](imagenes/consulta2.png)
+<img width="717" height="339" alt="Resultado de la consulta 2" src="https://github.com/user-attachments/assets/e882fdc8-d1ef-4327-9c6e-992e9029cfcf" />
 
 ---
 
@@ -50,7 +48,8 @@ ORDER BY s.fecha_solicitud;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 3](imagenes/consulta3.png)
+<img width="702" height="299" alt="Resultado de la consulta 3" src="https://github.com/user-attachments/assets/aa5e0a93-0133-44b3-8318-3fdf7c9f6d11" />
+
 
 ---
 
@@ -68,7 +67,7 @@ ORDER BY s.fecha, s.hora_inicio;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 4](imagenes/consulta4.png)
+<img width="818" height="293" alt="Resultado de la consulta 4" src="https://github.com/user-attachments/assets/e770ecb8-1ae0-4f93-b5f8-f4e504b70fa0" />
 
 ---
 
@@ -87,7 +86,7 @@ ORDER BY estudiantes_inscritos DESC;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 5](imagenes/consulta5.png)
+<img width="659" height="294" alt="Resultado de la consulta 5" src="https://github.com/user-attachments/assets/c373db05-dd81-4442-8f42-401af8efb760" />
 
 ---
 
@@ -108,7 +107,7 @@ ORDER BY s.fecha, estudiante;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 6](imagenes/consulta6.png)
+<img width="821" height="294" alt="Resultado de la consulta 6" src="https://github.com/user-attachments/assets/2870ed20-a753-4654-9c2b-3ad688c2dcb0" />
 
 ---
 
@@ -129,7 +128,7 @@ ORDER BY promedio_calificacion DESC;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 7](imagenes/consulta7.png)
+<img width="555" height="253" alt="Resultado de la consulta 7" src="https://github.com/user-attachments/assets/53cf79c1-0893-421e-b16b-3c545145b4ee" />
 
 ---
 
@@ -152,7 +151,7 @@ LIMIT 5;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 8](imagenes/consulta8.png)
+<img width="643" height="157" alt="Resultado de la consulta 8" src="https://github.com/user-attachments/assets/0cc9d81e-752d-4f77-b41f-b97724118f3f" />
 
 ---
 
@@ -172,7 +171,7 @@ ORDER BY t.tipo;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 9](imagenes/consulta9.png)
+<img width="507" height="105" alt="Resultado de la consulta 9" src="https://github.com/user-attachments/assets/5e2573f5-6094-405a-ae46-eef5bfb50baa" />
 
 ---
 
@@ -195,6 +194,6 @@ SELECT
 
 **Captura del resultado:**
 
-![Resultado de la consulta 10](imagenes/consulta10.png)
+<img width="825" height="71" alt="Resultado de la consulta 10" src="https://github.com/user-attachments/assets/a1742399-642d-4b9c-a394-a25cf51e92a1" />
 
 ---
