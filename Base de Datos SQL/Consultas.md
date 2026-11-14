@@ -1,9 +1,3 @@
-# Consultas SQL — Sistema de Gestión de Tutorías BDR
-
-Este documento presenta las diez consultas SQL y un espacio para incorporar la captura del resultado de cada una.
-
-> **Nota:** guarda las capturas en la carpeta `imagenes` con los nombres `consulta1.png` hasta `consulta10.png`.
-
 ## Consulta 1. Consultar todos los estudiantes registrados
 
 **Código SQL:**
@@ -16,7 +10,8 @@ ORDER BY apellido, nombre;
 
 **Captura del resultado:**
 
-![Resultado de la consulta 1](imagenes/consulta1.png)
+![Resultado de la consulta 1](<img width="811" height="312" alt="image" src="https://github.com/user-attachments/assets/61d72d2c-71f8-4056-81b0-fd19acf01b84" />
+)
 
 ---
 
