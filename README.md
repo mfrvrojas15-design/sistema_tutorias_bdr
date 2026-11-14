@@ -51,7 +51,7 @@ con los requisitos de la entrega final.
 [Ver inserción de 12 registros por tabla](Base%20de%20Datos%20SQL/Registros.sql)
 
 ### 6. Diez consultas sobre la base de datos
-[Ver las 10 consultas SQL](Base%20de%20Datos%20SQL/Consultas.sql)
+[Ver las 10 consultas SQL](Base%20de%20Datos%20SQL/Consultas.ml)
 
 ---
 
